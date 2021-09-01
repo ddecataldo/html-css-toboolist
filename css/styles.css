@@ -26,6 +26,7 @@ li{
 
 .d-inline{
     display: inline-block;
+    vertical-align: middle;
 }
 
 .container{
