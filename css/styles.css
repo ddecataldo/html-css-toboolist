@@ -13,6 +13,9 @@ main{
     background-color: #f6f8f9;
     padding: 50px;
 }
+li{
+    padding: 5px 0;
+}
 
 
 #logo{
