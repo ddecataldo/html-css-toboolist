@@ -16,6 +16,9 @@ main{
 li{
     padding: 5px 0;
 }
+footer{
+    padding: 15px;
+}
 
 
 #logo{
@@ -96,9 +99,4 @@ li{
 }
 .sales{
     background-color: #b0c926;
-}
-
-/* Footer */
-.footer{
-    padding: 15px;
 }
